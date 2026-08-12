@@ -137,5 +137,6 @@ Arduino Uno · HC-SR04 ultrasonic sensor · 3D-printed PLA enclosure
 ---
 
 EE397 Project-Based Learning, Maynooth University, Year 3 Semester 1
-(Dec 2025). Group of 3 — my contribution: [fill in].
+(Dec 2025). Group of 3 — my contribution: enclosure design (Fusion 360
+modelling, dimensioning, print preparation), firmware, and research.
 Full team credited in the report.
